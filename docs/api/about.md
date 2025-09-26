@@ -63,4 +63,4 @@ This documentation is split into multiple sections:
 
 ---
 
-## ⚡ Start exploring the IdiotStudios API using the navigation on the left!
+## ⚡ Start exploring the IdiotStudios API using the navigation on the left
