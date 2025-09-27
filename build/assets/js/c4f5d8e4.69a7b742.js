@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidiot_studios=self.webpackChunkidiot_studios||[]).push([[634],{192:(t,i,e)=>{e.r(i),e.d(i,{default:()=>o});var s=e(4586),n=e(6540);function o(){const{siteConfig:t}=(0,s.A)();return(0,n.useEffect)(()=>{window.location.replace("/intro")},[]),null}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidiot_studios=self.webpackChunkidiot_studios||[]).push([[509],{9517:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"API","slug":"/category/api","permalink":"/category/api","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Projects","permalink":"/projects"},"next":{"title":"About","permalink":"/api/about"}}}}')}}]);
