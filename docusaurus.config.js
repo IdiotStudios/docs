@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'idiotstudiosco', // Usually your GitHub org/user name.
+  organizationName: 'idiotstudios', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -104,7 +104,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/idiotstudiosco/docs',
+            href: 'https://github.com/idiotstudios/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -144,7 +144,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/idiotstudiosco/docs',
+                href: 'https://github.com/idiotstudios/docs',
               },
             ],
           },

@@ -31,4 +31,4 @@ Whether it’s reporting a bug, suggesting a feature, or writing documentation, 
 
 ---
 
-👉 Not sure where to start? Check the [Issues](https://github.com/idiotstudiosco) on GitHub for “good first issue” labels!
+👉 Not sure where to start? Check the [Issues](https://github.com/idiotstudios) on GitHub for “good first issue” labels!
