@@ -8,6 +8,10 @@ title: Introduction
 Welcome to the official documentation for **IdiotStudios Projects & Services**.  
 Here you'll find guides, API references, and resources to help you use and contribute to our projects.
 
+## Notice
+
+These Docs are under construction, some information may be incorrect or not updated yet.
+
 ## Getting Started
 
 - Learn about our different projects and services.  
