@@ -9,7 +9,7 @@ This page gives an overview of what we’re working on and links to their docume
 
 ## Current Projects
 
-### 🌐 IdiotStudios API
+### 🌐 IdiotStudios API (Work In Progress)
 
 The API powering several IdiotStudios services.
 
