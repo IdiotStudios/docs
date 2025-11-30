@@ -13,7 +13,7 @@ Before diving in, make sure you have:
 
 - A modern web browser (Chrome, Firefox, Safari, or Edge). (Firefox is our personal choice)
 - A GitHub account (if you plan on contributing).
-- Basic knowledge of JavaScript, HTML, or APIs (depending on the project).
+- Basic knowledge of JavaScript, HTML, Rust, or APIs (depending on the project).
 
 ## Quick Start
 

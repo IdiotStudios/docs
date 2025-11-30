@@ -16,7 +16,7 @@ This documentation is designed for developers who want to integrate IdiotStudios
 All requests are made relative to:
 
 ``` html
-https://idiotstudios.co.za/api
+https://api.idiotstudios.co.za/
 ```
 
 ## Authentication
