@@ -23,7 +23,7 @@ A collaborative wiki for knowledge sharing and archiving.
 - Community-driven content.
 - Easy to search and contribute to.
 
-### 💬 Conam (Chat Platform)
+### 💬 Conam (Chat Platform) (Currently Offline)
 
 A peer-to-peer chat and calling platform.
 
