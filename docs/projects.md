@@ -19,7 +19,7 @@ The launcher will be used for all our games that we make to make it a simpler ex
 The API powering several IdiotStudios services.
 
 - Provides authentication, data access, and integration points.
-- Documentation: [API Reference](/api/intro)
+- Documentation: [API Reference](/api/about)
 
 ### 📚 Our Documentation
 
