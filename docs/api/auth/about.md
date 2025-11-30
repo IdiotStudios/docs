@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-id: auth
-sidebar_label: Auth
+id: about
+sidebar_label: About
 description: About The IdiotStudios Auth API
 ---
 

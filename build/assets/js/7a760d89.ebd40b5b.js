@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkidiot_studios=self.webpackChunkidiot_studios||[]).push([[757],{8425:t=>{t.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Auth","slug":"/category/auth","permalink":"/category/auth","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"About","permalink":"/api/about"},"next":{"title":"About","permalink":"/api/auth/about"}}}}')}}]);
