@@ -9,17 +9,7 @@ This page gives an overview of what we’re working on and links to their docume
 
 ## Current Projects
 
-### Our Game (Still working on a name)
-
-Our game will have an open source launcher with a closed backend.
-The launcher will be used for all our games that we make to make it a simpler experience but downloading of the actual game will never be needed
-
-### 🌐 IdiotStudios API (Work In Progress)
-
-The API powering several IdiotStudios services.
-
-- Provides authentication, data access, and integration points.
-- Documentation: [API Reference](/api/about)
+### Bardar
 
 ### 📚 Our Documentation
 
@@ -27,14 +17,6 @@ A collaborative wiki for knowledge sharing and archiving.
 
 - Community-driven content.
 - Easy to search and contribute to.
-
-### 💬 Conam (Chat Platform)
-
-A peer-to-peer chat and calling platform.
-
-- Real-time messaging.
-- Secure, ram stored messages.
-- Audio/video calls with code-based joining.
 
 ## Archived / Experimental Projects
 
